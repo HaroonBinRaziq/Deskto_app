@@ -1,0 +1,10 @@
+E:\C# projects\Ecommerece Desktop App\Ecommerece Desktop App\bin\Debug\Ecommerece Desktop App.exe.config
+E:\C# projects\Ecommerece Desktop App\Ecommerece Desktop App\bin\Debug\Ecommerece Desktop App.exe
+E:\C# projects\Ecommerece Desktop App\Ecommerece Desktop App\bin\Debug\Ecommerece Desktop App.pdb
+E:\C# projects\Ecommerece Desktop App\Ecommerece Desktop App\obj\Debug\Ecommerece Desktop App.csprojAssemblyReference.cache
+E:\C# projects\Ecommerece Desktop App\Ecommerece Desktop App\obj\Debug\Ecommerece_Desktop_App.Form1.resources
+E:\C# projects\Ecommerece Desktop App\Ecommerece Desktop App\obj\Debug\Ecommerece_Desktop_App.Properties.Resources.resources
+E:\C# projects\Ecommerece Desktop App\Ecommerece Desktop App\obj\Debug\Ecommerece Desktop App.csproj.GenerateResource.cache
+E:\C# projects\Ecommerece Desktop App\Ecommerece Desktop App\obj\Debug\Ecommerece Desktop App.csproj.CoreCompileInputs.cache
+E:\C# projects\Ecommerece Desktop App\Ecommerece Desktop App\obj\Debug\Ecommerece Desktop App.exe
+E:\C# projects\Ecommerece Desktop App\Ecommerece Desktop App\obj\Debug\Ecommerece Desktop App.pdb
